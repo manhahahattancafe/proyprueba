@@ -38,4 +38,4 @@ document.addEventListener("DOMContentLoaded", () => {
         messageDiv.textContent = "¡Inicio de sesión exitoso!";
         messageDiv.style.color = "green";
     });
-});
+});// Validacion de login implementada por Carla
